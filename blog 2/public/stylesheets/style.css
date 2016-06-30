@@ -1,0 +1,16 @@
+body {
+      padding: 100px;
+      font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+#loginOptions, #logoutOptions{
+    display: none;
+}
+
+#message{
+    color: red;
+}
+
+small{
+    padding-left: 20px;
+}
